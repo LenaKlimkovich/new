@@ -1,0 +1,24 @@
+{
+  "name": "new",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/LenaKlimkovich/new#readme",
+  "bugs": {
+    "url": "https://github.com/LenaKlimkovich/new/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LenaKlimkovich/new.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@lenaklimkovich/ajs": "^1.0.0"
+  }
+}
